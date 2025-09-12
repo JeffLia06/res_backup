@@ -9,3 +9,4 @@ fall 2025：
   csc236
   mat244
   mat235
+  sta237
